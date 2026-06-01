@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/nnozadze/Desktop/davaleba ai/mlruns/1/models/m-f93b39bb6bad41f1872f8064dc45dd5a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.13.0
+model_id: m-f93b39bb6bad41f1872f8064dc45dd5a
+model_size_bytes: 2356
+model_uuid: m-f93b39bb6bad41f1872f8064dc45dd5a
+prompts: null
+run_id: 1a46be8042d24e9fbfe692574ff83527
+utc_time_created: '2026-06-01 08:28:10.950735'

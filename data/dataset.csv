@@ -1,0 +1,11 @@
+area,rooms,district,floor,condition,parking,price
+50,2,Saburtalo,3,old,no,70000
+70,3,Saburtalo,5,new,yes,120000
+45,2,Gldani,2,old,no,50000
+90,4,Vake,6,new,yes,200000
+60,3,Didube,4,average,no,85000
+80,3,Vake,7,new,yes,180000
+55,2,Isani,3,average,no,65000
+100,4,Saburtalo,8,new,yes,220000
+65,3,Gldani,5,old,no,75000
+75,3,Didube,6,average,yes,95000
